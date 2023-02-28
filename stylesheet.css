@@ -3,7 +3,7 @@
   }
   
   header {
-    background-color: rgb(214, 50, 255);
+    background-color: #ff6db4;
     padding: 25px;
     text-align: center;
     color: rgb(255, 237, 250);
@@ -23,12 +23,12 @@
   
   /* unvisited link */
   a:link {
-    color: #22D1E0;
+    color: #22d1e0;
   }
   
   /* visited link */
   a:visited {
-    color: #22D1E0;
+    color: #ff1888;
   }
   
   /* mouse over link */
@@ -40,11 +40,11 @@
   
   /* selected link */
   a:active {
-    color: #345D61;
+    color: #d40066;
   }
   
   main {
-    background-color: #dffbee;
+    background-color: #ffd4e9;
   }
   
   footer {
