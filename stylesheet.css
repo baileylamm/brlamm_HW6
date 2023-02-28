@@ -1,6 +1,5 @@
 .wrapper {
     background-color: whitesmoke;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   header {
@@ -16,6 +15,7 @@
     margin: 10px;
     padding-bottom: 25px;
     border-bottom: 1px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   a {
@@ -76,4 +76,13 @@
   
   tr:nth-child(even) {
     background-color: #f2f2f2;
+  }
+  img {
+      border: 5px solid #ff1888; 
+      padding: 5px; 
+      display: block; /* make image a block element */
+      margin: 0 auto;
+  }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
