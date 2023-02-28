@@ -1,5 +1,6 @@
 .wrapper {
     background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   header {
@@ -24,7 +25,7 @@
   
   /* unvisited link */
   a:link {
-    color: #22d1e0;
+    color: #ff1888;
   }
   
   /* visited link */
